@@ -34,13 +34,13 @@
  <key>bundle-identifier</key>
  <string>bundleID</string>
  <key>bundle-version</key>
- <string>1.0.0</string>
+ <string>2.0.0</string>
  <key>kind</key>
  <string>software</string>
  <key>subtitle</key>
  <string>App</string>
  <key>title</key>
- <string>益众测试版</string>
+ <string>益众</string>
  </dict>
  </dict>
  </array>
